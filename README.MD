@@ -5,4 +5,4 @@ Learning how to code GUI elements in the popular C++ framework one step at a tim
 
 Includes python resource script.
 
-Compile with make, the qmake project file is already included.
+Compile with qmake, then make, the qmake project file is already included.
