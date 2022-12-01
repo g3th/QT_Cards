@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="gui_style.qss">/home/roberto/Desktop/C++/gui_test/gui_style.qss</file>
+</qresource>
+</RCC>
