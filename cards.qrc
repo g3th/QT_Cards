@@ -67,6 +67,7 @@
 			<file>cards/jack_of_spades2.png</file>
 			<file>cards/jack_of_diamonds.png</file>
 			<file>cards/jack_of_hearts2.png</file>
+			<file>cards/back.png</file>
 			<file>assets/felt.jpg</file>
 			<file>gui_style.qss</file>
 		 </qresource>
