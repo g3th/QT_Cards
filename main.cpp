@@ -13,7 +13,7 @@ int main(int argc, char *argv[]){
 	QString css(guiStylesheet.readAll());
 	MyApplication.setStyleSheet(css);
 	
-	GUI.setFixedSize(480,700);
+	GUI.setFixedSize(880,700);
 	GUI.setWindowTitle("Pick A Card, Any Card");
 	GUI.show();
 	
